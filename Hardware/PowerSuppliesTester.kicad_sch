@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a8890fb5-93be-4291-bd44-ff75cdd30f53)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 25.4 118.11) (size 69.85 52.705) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 052d0f5b-0579-4907-a2ff-ea8a943d8593)
+    (property "Sheetname" "Inverter" (at 25.4 117.3984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Inverter_buck_boost.kicad_sch" (at 25.4 171.3996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "fuentes"
+        (path "/a8890fb5-93be-4291-bd44-ff75cdd30f53" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 29.21 35.56) (size 64.77 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 706afcc5-d16b-48ea-aef1-280e52c9c4bc)
+    (property "Sheetname" "BOOST" (at 29.21 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "buck.kicad_sch" (at 29.21 81.8646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "fuentes"
+        (path "/a8890fb5-93be-4291-bd44-ff75cdd30f53" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 97.79 35.56) (size 57.15 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 938f5848-f99f-4428-847d-3d7aae7ea82e)
+    (property "Sheetname" "USB_PD" (at 97.79 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB_PD.kicad_sch" (at 97.79 81.8646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "fuentes"
+        (path "/a8890fb5-93be-4291-bd44-ff75cdd30f53" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 160.02 35.56) (size 58.42 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid defa20af-1fd0-4d42-9606-080a83c12cd9)
+    (property "Sheetname" "BUCKs" (at 160.02 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Buck3v3.kicad_sch" (at 160.02 81.8646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "fuentes"
+        (path "/a8890fb5-93be-4291-bd44-ff75cdd30f53" (page "5"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
