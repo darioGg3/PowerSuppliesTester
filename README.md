@@ -10,10 +10,7 @@ PCB designed on KiCAD 7.0
 
  <br>
 <p>
-  <img height="200"  style="padding: 30px;" src="https://github.com/darioGg3/PowerSuppliesTester/blob/main/images/board.png">
-
-  <img height="200"  src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Back.png">
-</p>
+  <img height="300"  style="padding: 30px;" src="https://github.com/darioGg3/PowerSuppliesTester/blob/main/images/board.png">
 
 <p>
   <img  src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Schematic_img.png">
