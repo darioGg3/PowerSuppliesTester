@@ -1,6 +1,6 @@
 # PowerSuppliesTester
 
-# Board with many outputs to test diferent DC-DC Switching power supplies
+### Board with many outputs to test diferent DC-DC Switching power supplies
 
 PCB designed on KiCAD 7.0
 
