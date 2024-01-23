@@ -32,7 +32,7 @@
     (property "Sheetname" "BOOST" (at 29.21 34.8484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "buck.kicad_sch" (at 29.21 81.8646 0)
+    (property "Sheetfile" "Boost.kicad_sch" (at 29.21 81.8646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
